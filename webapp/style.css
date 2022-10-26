@@ -1,0 +1,130 @@
+body{
+    color:white;
+    width: 1440px;
+    height: 4417px;
+    margin: 0%;
+    background-color: black;
+    font-family:visby cf;
+}
+#invest{
+    left: 3359px;
+    top: -5887px;
+    border-radius: 0px;
+    position: relative;
+}
+#metatask{
+    height: 45px;
+    width: 1440px;
+    left: 17px;
+    top: 0px;
+    border-radius: 0px;
+    bottom: 73.84%;
+    background: #F61354;
+
+    font-size: 17.9701px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    
+    flex: none;
+    flex-grow: 0;
+    color: white;
+    padding: 9px 0px 8px 0px;
+    text-align: left;
+}
+span{
+    opacity: 0.7; 
+}
+img{
+    box-sizing: border-box;
+    position: absolute;
+    width: 534px;
+    height: 704px;
+    left: 93px;
+    top: 233px;
+    border-radius: 13.5614px;
+    float: left;
+}
+
+/* #commonshare{
+    width: 600px;
+    height: 168px;
+    left: 692px;
+    top: 233px;
+    position: relative;
+} */
+.border{
+    border: 1px solid white;
+    margin: 0px 148px 61px 95px;
+    padding: 0px 66px 52px 68px;
+}
+#time{
+    letter-spacing: 1px;
+}
+#moreproject{
+    height: 597px;
+    width: 1334.26611328125px;
+    left: 58px;
+    top: 3618px;
+    margin: 58px;
+}
+#more{
+    height: 44px;
+    width: 285px;
+    left: 94px;
+    top: 3698px;
+    border-radius: nullpx;
+
+    font-family: Visby CF;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#l1{
+    height: 330.2486877441406px;
+    width: 286.9239807128906px;
+    left: 92.953125px;
+    top: 3767.0224609375px;
+    border-radius: 16.628543853759766px;
+    position: absolute;
+    background: #121212;
+}
+.img1{
+    height: 175.29257202148438px;
+    width: 257.742431640625px;
+    left: 14.551025390625px;
+    top: 14.550537109375px;
+    border-radius: 11.085697174072266px;
+}
+#viewproject{
+    border: 1px solid white;
+    border-radius: 27px;
+    box-sizing: border-box;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    width: 208px;
+    height: 54px;
+    left: 616px;
+    top: 4161px;
+    position: absolute;
+    text-align: center;
+    padding-top: 21px;
+}
+footer{
+    position: absolute;
+    width: 700px;
+    height: 25px;
+    left: 108px;
+    top: 4320px;
+    right: 686.07px;
+    opacity: 0.4;
+}
+.footer{
+    margin-right: 36.98px;
+}
+
+
+
